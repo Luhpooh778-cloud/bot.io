@@ -1,2 +1,3 @@
-# bot.io
-python-telegram-bot==20.7
+telegram-bot/
+ ├── bot.py
+ └── requirements.txt
