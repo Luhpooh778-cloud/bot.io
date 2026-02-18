@@ -13,3 +13,6 @@ app.add_handler(CommandHandler("start", start))
 print("Bot running...")
 
 app.run_polling()
+Add file → Create new file
+requirements.txt
+python-telegram-bot==20.7
